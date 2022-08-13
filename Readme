@@ -1,0 +1,6 @@
+;Very Very inportant 
+; we have not used any Variable to Store Values
+;we have Stored LOCationof Car in DX Register which keeps on changing when ever Right Or Left Key is presed
+;We have Stored SCORE (Starting from 0) in BX Register
+;We have used Stack Pushing and POPing very Accurately thats why we felt free to not make Variables and Store Locations and Scores in Register 
+Properly commented code provided in asm file :) 
